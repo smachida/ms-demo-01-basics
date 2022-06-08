@@ -1,2 +1,2 @@
 #!/bin/bash
-curl http://localhost:7000/product-composite/1 | jq
+curl http://localhost:17000/product-composite/1 | jq

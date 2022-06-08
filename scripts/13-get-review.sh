@@ -1,2 +1,2 @@
 #!/bin/bash
-curl http://localhost:7003/review?productId=1 | jq
+curl http://localhost:17003/review?productId=1 | jq
